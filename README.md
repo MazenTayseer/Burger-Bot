@@ -1,2 +1,2 @@
-# Burger-Bot
-Terms os Services
+# Burger - Terms of Services
+
